@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2000&pause=1000&color=00E57A&center=true&vCenter=true&width=750&lines=Building+on-chain+systems.;//Hours wasted here: 534H;it+WORKED+on+Localhost!!;measure+first%2C+optimize+later.;ship+small%2C+then+make+it+less+embarrassing." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2000&pause=1000&color=00E57A&center=true&vCenter=true&width=750&lines=Building+on-chain+systems.;Hours+wasted+here:+534H;it+WORKED+on+Localhost!!;measure+first%2C+optimize+later.;ship+small%2C+then+make+it+less+embarrassing." alt="Typing SVG" />
 
 <br/>
 
