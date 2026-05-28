@@ -318,7 +318,7 @@ would reach for docs. **Learning** = started, not there yet.
 ---
 
 <div align="center">
-<sub>Everyone has to start somewhere, right?
+<sub>
 
-Best ;)</sub>
+Cheers ;)</sub>
 </div>
