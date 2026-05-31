@@ -246,12 +246,25 @@ where I met the `while` loop and we have been close ever since.
 
 ## Security
 
-I take part in a public bug bounty program. I found a vulnerability, reported it
-through the proper channel, and it's currently in triage. Out of respect for
-responsible-disclosure rules I'm not naming the target — the boring answer is
-also the correct one.
+Alongside building, I do **smart-contract security research** on public bug-bounty
+programs (HackenProof). It's methodical, not heroic: take a live DeFi protocol,
+model how it's *meant* to behave, then go function-by-function for where the code
+disagrees — backed by Foundry PoCs and live on-chain reads, not vibes.
 
-`bug bounty` · `responsible disclosure` · `HTTP` · `JWT`
+```
+order-book DEX + cross-chain bridge ... LayerZero v2, message replay, fee accounting
+lending / money-markets ............... interest accrual, liquidation, bad debt
+ERC-4626 vaults ....................... donation / share-inflation, rate manipulation
+oracles (Api3 / Pyth) ................. staleness, LST exchange-rate pricing
+upgradeable proxies ................... storage-layout & initializer safety
+```
+
+**The honest part:** well-audited protocols mostly come back *clean* — and saying
+so, instead of forcing a weak report, is most of the skill. So far it's a handful
+of low-severity issues and a lot of "this is actually fine, here's why." Anything
+I find goes through the proper channel; I don't name targets until it's resolved.
+
+`smart-contract auditing` · `Foundry` · `DeFi` · `LayerZero` · `responsible disclosure`
 
 ---
 
