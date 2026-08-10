@@ -1,4 +1,4 @@
 # Hendrik
 
-🔐 Security Researcher @ [Steakhouse Financial](https://www.steakhouse.financial/)
+🔐 Security Researcher @ [Steakhouse Financial](https://www.steakhouse.financial/);
 📍 Onchain
